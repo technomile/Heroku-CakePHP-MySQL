@@ -12,4 +12,4 @@ Our primary goal is to provide a structured framework that enables PHP users at 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/technomile/Heroku-CakePHP)
 
-Check out the [documentation](http://book.cakephp.org/2.0/en/index.html) to learn more about TechnoMile and to set up your own instance.
+Check out the [documentation](http://cakephp.technomile.net) to learn more about CakePHP and to set up your own instance.
