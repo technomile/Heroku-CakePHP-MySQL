@@ -1,5 +1,5 @@
 {
     "name": "TechnoMile LLC",
     "description": "Deploying CakePHP to Heroku using the Heroku Button",
-    "addons": ["newrelic:stark","sendgrid:starter"]
+    "addons": ["cleardb:ignite","newrelic:stark","sendgrid:starter"]
 }
