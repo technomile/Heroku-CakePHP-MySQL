@@ -20,6 +20,6 @@ You can see a live demo at [Heroku CakePHP PostgreSQL](http://heroku-cakephp-pos
 
 [CakePHP](http://www.cakephp.org) is a rapid development framework for PHP which uses commonly known design patterns like Active Record, Association Data Mapping, Front Controller and MVC. Our primary goal is to provide a structured framework that enables PHP users at all levels to rapidly develop robust web applications, without any loss to flexibility.
 
-[![Add-ons](http://www.technomile.com/wp-content/uploads/2015/03/feature.jpg)](http://www.technomile.com/capabilities/application-development/heroku/cakephp)
+[![Add-ons](http://www.technomile.com/wp-content/uploads/2015/03/cakefeature_new.jpg)](http://www.technomile.com/capabilities/application-development/heroku/cakephp)
 
 Check out the [documentation](http://technomile-buildpack.herokuapp.com/CakePHP/) to learn more about Heroku & CakePHP and to set up your own instance.
