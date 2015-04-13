@@ -12,7 +12,7 @@ You can see a live demo at [Heroku CakePHP MySQL](http://heroku-cakephp-mysql.he
 
 You can deploy your own version of CakePHP + PostgreSQL on Heroku in seconds using the Heroku button below:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/technomile/Heroku-CakePHP-Postgres)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/technomile/Heroku-Salesforce-CakePHP)
 
 You can see a live demo at [Heroku CakePHP PostgreSQL](http://heroku-cakephp-postgres.herokuapp.com/)
 
