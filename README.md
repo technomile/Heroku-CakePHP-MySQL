@@ -22,4 +22,4 @@ You can see a live demo at [Heroku CakePHP PostgreSQL](http://heroku-cakephp-pos
 
 [![Add-ons](http://www.technomile.com/wp-content/uploads/2015/03/cakefeature_new.jpg)](http://www.technomile.com/capabilities/application-development/heroku/cakephp)
 
-Check out the [documentation](http://technomile-buildpack.herokuapp.com/CakePHP/) to learn more about Heroku & CakePHP and to set up your own instance.
+Check out the [documentation](http://technomile.github.io/CakePHP/) to learn more about Heroku & CakePHP and to set up your own instance.
