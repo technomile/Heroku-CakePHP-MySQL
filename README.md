@@ -4,13 +4,13 @@
 
 [TechnoMile](http://www.technomile.com) created a sample website that demonstrates how to build customer blog with [CakePHP](http://www.cakephp.org).
 
-You can deploy your own version of CakePHP + MySQL on Heroku in seconds using the Heroku button below:
+You can deploy your own version of CakePHP with MySQL on Heroku in seconds using the Heroku button below:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/technomile/Heroku-CakePHP)
 
 You can see a live demo at [Heroku CakePHP MySQL](http://heroku-cakephp-mysql.herokuapp.com/)
 
-You can deploy your own version of CakePHP + PostgreSQL on Heroku in seconds using the Heroku button below:
+You can deploy your own version of CakePHP with PostgreSQL on Heroku in seconds using the Heroku button below:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/technomile/Heroku-Salesforce-CakePHP)
 
